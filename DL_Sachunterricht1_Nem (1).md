@@ -1,3 +1,8 @@
+<!--
+author: Adrian Nemetschek
+language: de
+-->
+
 # Sachkundeunterricht (Klasse 4) Lernbereich 3: Begegnungen mit Pflanzen und Tieren
 
 ---
@@ -171,9 +176,9 @@ Ordne die Tiergebisse den richtigen Namen zu, indem du die Kacheln in das passen
 <!-- data-show-partial-solution
 data-solution-button="2"
 data-randomize="true"  -->
-<span style="font-weight: normal;">Pflanzenfresser:</span>   [->[( ![Gebiss Pflanzenfresser](img/Pflanzenfressergebiss_KI.jpg)<!--style="height:80px"--> )]] 
-Fleischfresser:  [->[( ![Gebiss Fleischfresser](img/Fleischfressergebiss_KI.jpg)<!-- style="height:80px" -->)]] 
-Allesfresser:  [->[( ![Gebiss Allesfresser](img/Allesfressergebiss_KI.jpg)<!-- style="height:80px" --> )]]
+<span style="font-weight: normal;">Pflanzenfresser:</span>   [->[( ![](img/Pflanzenfressergebiss_KI.jpg)<!--style="height:80px"--> )]] 
+Fleischfresser:  [->[( ![](img/Fleischfressergebiss_KI.jpg)<!-- style="height:80px" -->)]] 
+Allesfresser:  [->[( ![](img/Allesfressergebiss_KI.jpg)<!-- style="height:80px" --> )]]
 
 Quelle: Erstellt mit LLM
 
