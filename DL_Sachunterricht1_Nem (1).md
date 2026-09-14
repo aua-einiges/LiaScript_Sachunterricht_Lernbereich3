@@ -4,6 +4,7 @@ language: de
 -->
 
 # Sachkundeunterricht (Klasse 4) Lernbereich 3: Begegnungen mit Pflanzen und Tieren
+__Aufgabe 1-5__
 
 ---
 
@@ -59,6 +60,11 @@ Bestimme, welche Pflanze ein sogenannter Frühjahrsblüher ist.
 
 ---
 
+# Sachkundeunterricht (Klasse 4) Lernbereich 3: Begegnungen mit Pflanzen und Tieren
+__Aufgabe 6-10__
+
+---
+
 __Aufgabe 6: Lichtkompensationspunkt__
 
 Ergänze den folgenden Satz sinnvoll:
@@ -108,6 +114,11 @@ __Aufgabe 10: Pilze richtig transportieren__
 Vervollständige die Sätze richtig.
 
 Pilze brauchen auf dem Heimweg [[ (Luft zum Atmen) | Wasser um frisch zu bleiben | Sonnenlicht um sich nicht zu verfärben ]]. Wenn man sie in einer verschlossenen Plastiktüte sammelt, fangen sie an zu [[ wachsen | (schwitzen) | trocknen ]]. Sie können dann sehr schnell [[ (schimmeln) | gären | zerfallen ]] und uns krank machen. Deshalb sammelt man Pilze am besten immer in einem [[ verschließbaren Glas | Rucksack mit Reißverschluss | (luftigen Korb) ]].
+
+---
+
+# Sachkundeunterricht (Klasse 4) Lernbereich 3: Begegnungen mit Pflanzen und Tieren
+__Aufgabe 11-15__
 
 ---
 
@@ -204,6 +215,11 @@ data-solution-button="1"-->
 - [    (x)           ( )             ( )        ( ) ] Kaninchen
 - [    ( )           (x)             ( )        ( ) ] Strauß
 - [    ( )           ( )             (x)        ( ) ] Marienkäfer
+
+---
+
+# Sachkundeunterricht (Klasse 4) Lernbereich 3: Begegnungen mit Pflanzen und Tieren
+__Aufgabe 16-20__
 
 ---
 
