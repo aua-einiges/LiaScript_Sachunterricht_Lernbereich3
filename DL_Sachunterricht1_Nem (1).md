@@ -126,15 +126,15 @@ Ordne jedem Pilz seinen richtigen Namen zu, indem du die Kacheln in das passende
 <!-- data-show-partial-solution
 data-solution-button="2"
 data-randomize="true"  -->
-<span style="font-weight: normal;">Schirmpilz:</span>   [->[( ![]()<!-- style="height:80px"--> )]] 
-Baumpilz:  [->[( ![]()<!-- style="height:80px" -->)]] 
-Steinpilz:  [->[( ![]()<!-- style="height:80px" --> )]] <br>
-Fliegenpilz:  [->[( ![]()<!-- style="height:80px" --> )]] 
-Stinkmorchel:  [->[( ![]()<!-- style="height:80px" --> )]] 
-Knollenblätterpilz
-Stockschwämmchen
-Wiesenchampignon
-Krause Glucke
+<span style="font-weight: normal;">Schirmpilz:</span>   [->[( ![](img/Schirmpilz_KI.jpg)<!-- style="height:80px"--> )]] 
+Baumpilz:  [->[( ![](img/Baumpilz_KI.jpg)<!-- style="height:80px" -->)]] 
+Steinpilz:  [->[( ![](img/Steinpilz_KI.jpg)<!-- style="height:80px" --> )]] <br>
+Fliegenpilz:  [->[( ![](img/Fliegenpilz_KI.jpg)<!-- style="height:80px" --> )]] 
+Stinkmorchel:  [->[( ![](img/Stinkmorchel_KI.jpg)<!-- style="height:80px" --> )]] 
+Knollenblätterpilz:  [->[( ![](img/Knollenblätterpilz_KI.jpg)<!-- style="height:80px" --> )]]
+Stockschwämmchen:  [->[( ![](img/Stockschwämmchen_KI.jpg)<!-- style="height:80px" --> )]]
+Wiesenchampignon:  [->[( ![](img/Wiesenchampignon_KI.jpg)<!-- style="height:80px" --> )]]
+Krause Glucke:  [->[( ![](img/Krause_Glucke_KI.jpg)<!-- style="height:80px" --> )]]
 
 Quelle: Erstellt mit LLM
 ---
