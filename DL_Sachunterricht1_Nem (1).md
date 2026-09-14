@@ -126,13 +126,17 @@ Ordne jedem Pilz seinen richtigen Namen zu, indem du die Kacheln in das passende
 <!-- data-show-partial-solution
 data-solution-button="2"
 data-randomize="true"  -->
-<span style="font-weight: normal;">Schirmpilz:</span>   [->[( ![](https://images.pexels.com/photos/4105644/pexels-photo-4105644.jpeg)<!-- style="height:80px"--> )]] 
-Baumpilz:  [->[( ![](https://images.pexels.com/photos/7688685/pexels-photo-7688685.jpeg)<!-- style="height:80px" -->)]] 
-Steinpilz:  [->[( ![](https://images.pexels.com/photos/35430524/pexels-photo-35430524.jpeg)<!-- style="height:80px" --> )]] <br>
-Fliegenpilz:  [->[( ![](https://images.pexels.com/photos/36089739/pexels-photo-36089739.jpeg)<!-- style="height:80px" --> )]] 
-Stinkmorchel:  [->[( ![](https://images.pexels.com/photos/35845379/pexels-photo-35845379.jpeg)<!-- style="height:80px" --> )]] 
+<span style="font-weight: normal;">Schirmpilz:</span>   [->[( ![]()<!-- style="height:80px"--> )]] 
+Baumpilz:  [->[( ![]()<!-- style="height:80px" -->)]] 
+Steinpilz:  [->[( ![]()<!-- style="height:80px" --> )]] <br>
+Fliegenpilz:  [->[( ![]()<!-- style="height:80px" --> )]] 
+Stinkmorchel:  [->[( ![]()<!-- style="height:80px" --> )]] 
+Knollenblätterpilz
+Stockschwämmchen
+Wiesenchampignon
+Krause Glucke
 
-Quelle: pexels
+Quelle: Erstellt mit LLM
 ---
 
 
