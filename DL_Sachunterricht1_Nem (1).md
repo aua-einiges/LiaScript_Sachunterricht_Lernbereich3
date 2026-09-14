@@ -142,15 +142,15 @@ Ordne jedem Pilz seinen richtigen Namen zu, indem du die Kacheln in das passende
 <!-- data-show-partial-solution
 data-solution-button="2"
 data-randomize="true"  -->
-<span style="font-weight: normal;">Schirmpilz:</span>   [->[( ![](img/Schirmpilz_KI.jpg)<!-- style="height:80px"--> )]] 
-Baumpilz:  [->[( ![](img/Baumpilz_KI.jpg)<!-- style="height:80px" -->)]] 
-Steinpilz:  [->[( ![](img/Steinpilz_KI.jpg)<!-- style="height:80px" --> )]] <br>
-Fliegenpilz:  [->[( ![](img/Fliegenpilz_KI.jpg)<!-- style="height:80px" --> )]] 
-Stinkmorchel:  [->[( ![](img/Stinkmorchel_KI.jpg)<!-- style="height:80px" --> )]] 
-Knollenblätterpilz:  [->[( ![](img/Knollenblätterpilz_KI.jpg)<!-- style="height:80px" --> )]]
-Stockschwämmchen:  [->[( ![](img/Stockschwämmchen_KI.jpg)<!-- style="height:80px" --> )]]
-Wiesenchampignon:  [->[( ![](img/Wiesenchampignon_KI.jpg)<!-- style="height:80px" --> )]]
-Krause Glucke:  [->[( ![](img/Krause_Glucke_KI.jpg)<!-- style="height:80px" --> )]]
+<span style="font-weight: normal;">Schirmpilz:</span>   [->[( ![](img/Schirmpilz_KI.jpg)<!-- style="height:150px"--> )]] 
+Baumpilz:  [->[( ![](img/Baumpilz_KI.jpg)<!-- style="height:150px" -->)]] 
+Steinpilz:  [->[( ![](img/Steinpilz_KI.jpg)<!-- style="height:150px" --> )]] <br>
+Fliegenpilz:  [->[( ![](img/Fliegenpilz_KI.jpg)<!-- style="height:150px" --> )]] 
+Stinkmorchel:  [->[( ![](img/Stinkmorchel_KI.jpg)<!-- style="height:150px" --> )]] 
+Knollenblätterpilz:  [->[( ![](img/Knollenblätterpilz_KI.jpg)<!-- style="height:150px" --> )]]
+Stockschwämmchen:  [->[( ![](img/Stockschwämmchen_KI.jpg)<!-- style="height:150px" --> )]]
+Wiesenchampignon:  [->[( ![](img/Wiesenchampignon_KI.jpg)<!-- style="height:150px" --> )]]
+Krause Glucke:  [->[( ![](img/Krause_Glucke_KI.jpg)<!-- style="height:150px" --> )]]
 
 Quelle: Erstellt mit LLM
 
@@ -187,9 +187,9 @@ Ordne die Tiergebisse den richtigen Namen zu, indem du die Kacheln in das passen
 <!-- data-show-partial-solution
 data-solution-button="2"
 data-randomize="true"  -->
-<span style="font-weight: normal;">Pflanzenfresser:</span>   [->[( ![](img/Pflanzenfressergebiss_KI.jpg)<!--style="height:80px"--> )]] 
-Fleischfresser:  [->[( ![](img/Fleischfressergebiss_KI.jpg)<!-- style="height:80px" -->)]] 
-Allesfresser:  [->[( ![](img/Allesfressergebiss_KI.jpg)<!-- style="height:80px" --> )]]
+<span style="font-weight: normal;">Pflanzenfresser:</span>   [->[( ![](img/Pflanzenfressergebiss_KI.jpg)<!--style="height:150px"--> )]] 
+Fleischfresser:  [->[( ![](img/Fleischfressergebiss_KI.jpg)<!-- style="height:150px" -->)]] 
+Allesfresser:  [->[( ![](img/Allesfressergebiss_KI.jpg)<!-- style="height:150px" --> )]]
 
 Quelle: Erstellt mit LLM
 
@@ -262,16 +262,16 @@ Ordne die Fährten/Spuren den richtigen Tieren zu.
 <!-- data-show-partial-solution
 data-solution-button="2"
 data-randomize="true"  -->
-<span style="font-weight: normal;">Wildschwein:</span>   [->[( ![Wildschwein](img/Wildschweinspuren_KI.jpg)<!-- style="height:80px"--> )]] 
-Hirsch:  [->[( ![Hirsch](img/Hirschspuren_KI.jpg)<!-- style="height:80px" -->)]] 
-Wolf:  [->[( ![Wolf](img/Wolfsspuren_KI.jpg)<!-- style="height:80px" --> )]] <br>
-Dachs:  [->[( ![Dachs](img/Dachsspuren_KI.jpg)<!-- style="height:80px" --> )]] 
-Luchs:  [->[( ![Luchs](img/Luchsspuren_KI.jpg)<!-- style="height:80px" --> )]] 
-Waschbär:  [->[( ![Waschbär](img/Waschbärspuren_KI.jpg)<!-- style="height:80px" --> )]] 
-Feldhase:  [->[( ![Feldhase](img/Feldhasespuren_KI.jpg)<!-- style="height:80px" --> )]]   
-Stockente:  [->[( ![Stockente](img/Stockentespuren_KI.jpg)<!-- style="height:80px" --> )]] 
-Braunbär:  [->[( ![Braunbär](img/Braunbärspuren_KI.jpg)<!-- style="height:80px" --> )]] 
-Fasan:  [->[( ![Fasan](img/Fasanspuren_KI.jpg)<!-- style="height:80px" --> )]] 
+<span style="font-weight: normal;">Wildschwein:</span>   [->[( ![Wildschwein](img/Wildschweinspuren_KI.jpg)<!-- style="height:150px"--> )]] 
+Hirsch:  [->[( ![Hirsch](img/Hirschspuren_KI.jpg)<!-- style="height:150px" -->)]] 
+Wolf:  [->[( ![Wolf](img/Wolfsspuren_KI.jpg)<!-- style="height:150px" --> )]] <br>
+Dachs:  [->[( ![Dachs](img/Dachsspuren_KI.jpg)<!-- style="height:150px" --> )]] 
+Luchs:  [->[( ![Luchs](img/Luchsspuren_KI.jpg)<!-- style="height:150px" --> )]] 
+Waschbär:  [->[( ![Waschbär](img/Waschbärspuren_KI.jpg)<!-- style="height:150px" --> )]] 
+Feldhase:  [->[( ![Feldhase](img/Feldhasespuren_KI.jpg)<!-- style="height:150px" --> )]]   
+Stockente:  [->[( ![Stockente](img/Stockentespuren_KI.jpg)<!-- style="height:150px" --> )]] 
+Braunbär:  [->[( ![Braunbär](img/Braunbärspuren_KI.jpg)<!-- style="height:150px" --> )]] 
+Fasan:  [->[( ![Fasan](img/Fasanspuren_KI.jpg)<!-- style="height:150px" --> )]] 
 
 Quelle: Erstellt mit einem LLM
 
@@ -328,12 +328,12 @@ Ordne die Losung den richtigen Tieren zu.
 <!-- data-show-partial-solution
 data-solution-button="2"
 data-randomize="true"  -->
-<span style="font-weight: normal;">Wildschwein:</span>   [->[( ![](img/Losung_Wildschwein_KI.jpg)<!-- style="height:80px"--> )]] 
-Feldhase:  [->[( ![](img/Losung_Feldhase_KI.jpg)<!-- style="height:80px" -->)]] 
-Auerhuhn:  [->[( ![Alt-Text](img/Losung_Auerhuhn_KI.jpg)<!-- style="height:80px" --> )]] <br>
-Wolf:  [->[( ![](img/Losung_Wolf_KI.jpg)<!-- style="height:80px" --> )]] 
-Dachs:  [->[( ![](img/Losung_Dachs_KI.jpg)<!-- style="height:80px" --> )]] 
-Luchs:  [->[( ![](img/Losung_Luchs_KI.jpg)<!-- style="height:80px" --> )]] 
+<span style="font-weight: normal;">Wildschwein:</span>   [->[( ![](img/Losung_Wildschwein_KI.jpg)<!-- style="height:150px"--> )]] 
+Feldhase:  [->[( ![](img/Losung_Feldhase_KI.jpg)<!-- style="height:150px" -->)]] 
+Auerhuhn:  [->[( ![Alt-Text](img/Losung_Auerhuhn_KI.jpg)<!-- style="height:150px" --> )]] <br>
+Wolf:  [->[( ![](img/Losung_Wolf_KI.jpg)<!-- style="height:150px" --> )]] 
+Dachs:  [->[( ![](img/Losung_Dachs_KI.jpg)<!-- style="height:150px" --> )]] 
+Luchs:  [->[( ![](img/Losung_Luchs_KI.jpg)<!-- style="height:150px" --> )]] 
 
 Quelle: Erstellt mit LLM
 
