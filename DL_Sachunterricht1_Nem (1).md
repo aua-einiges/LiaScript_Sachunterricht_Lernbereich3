@@ -307,12 +307,12 @@ Ordne die Losung den richtigen Tieren zu.
 <!-- data-show-partial-solution
 data-solution-button="2"
 data-randomize="true"  -->
-<span style="font-weight: normal;">Wildschwein:</span>   [->[( ![](https://www.waldwissen.net/assets/_processed_/9/3/csm_Sus_scrofa_03.2025__1__bcea968eab.webp)<!-- style="height:80px"--> )]] 
-Feldhase:  [->[( ![](https://www.waldwissen.net/assets/_processed_/2/2/csm_Lepus.europaeus.dung_f5d669defa.webp)<!-- style="height:80px" -->)]] 
-Auerhuhn:  [->[( ![Alt-Text](https://www.waldwissen.net/assets/_processed_/1/7/csm_Auerhuhn_FVA-BW-Coppes2_926d117c54.webp)<!-- style="height:80px" --> )]] <br>
-Wolf:  [->[( ![](https://www.waldwissen.net/assets/_processed_/4/0/csm_Wolf_FVA_Krause-_2__71c4c80268.webp)<!-- style="height:80px" --> )]] 
-Dachs:  [->[( ![](https://www.waldwissen.net/assets/_processed_/c/8/csm_Meles.meles.dung_2fbe741205.webp)<!-- style="height:80px" --> )]] 
-Luchs:  [->[( ![](https://www.waldwissen.net/assets/_processed_/9/d/csm_Luchslosung_ArminHafner-_3__a54f001c96.webp)<!-- style="height:80px" --> )]] 
+<span style="font-weight: normal;">Wildschwein:</span>   [->[( ![](img/Losung_Wildschwein_KI.jpg)<!-- style="height:80px"--> )]] 
+Feldhase:  [->[( ![](img/Losung_Feldhase_KI.jpg)<!-- style="height:80px" -->)]] 
+Auerhuhn:  [->[( ![Alt-Text](img/Losung_Auerhuhn_KI.jpg)<!-- style="height:80px" --> )]] <br>
+Wolf:  [->[( ![](img/Losung_Wolf_KI.jpg)<!-- style="height:80px" --> )]] 
+Dachs:  [->[( ![](img/Losung_Dachs_KI.jpg)<!-- style="height:80px" --> )]] 
+Luchs:  [->[( ![](img/Losung_Luchs_KI.jpg)<!-- style="height:80px" --> )]] 
 
 Quelle: Erstellt mit LLM
 
