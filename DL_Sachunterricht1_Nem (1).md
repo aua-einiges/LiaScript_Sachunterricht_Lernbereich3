@@ -166,11 +166,11 @@ Ordne die Tiergebisse den richtigen Namen zu, indem du die Kacheln in das passen
 <!-- data-show-partial-solution
 data-solution-button="2"
 data-randomize="true"  -->
-<span style="font-weight: normal;">Pflanzenfresser:</span>   [->[( ![](https://tse1.mm.bing.net/th/id/OIP.lClLnKKy1I-_Ue26UTqRbAHaEa?r=0&pid=Api&h=220&P=0)<!-- style="height:80px"--> )]] 
-Fleischfresser:  [->[( ![](https://tse4.mm.bing.net/th/id/OIP.Ec-lJ9bh_mQvJiDj_XrlnQHaEk?r=0&pid=Api&h=220&P=0)<!-- style="height:80px" -->)]] 
-Allesfresser:  [->[( ![](https://tse4.mm.bing.net/th/id/OIP.oxcKx1B_RudCxgITyWxdPAHaEK?r=0&pid=Api&h=220&P=0)<!-- style="height:80px" --> )]]
+<span style="font-weight: normal;">Pflanzenfresser:</span>   [->[( ![Gebiss Pflanzenfresser](img/Pflanzenfressergebiss_KI.jpg)<!--style="height:80px"--> )]] 
+Fleischfresser:  [->[( ![Gebiss Fleischfresser](img/Fleischfressergebiss_KI.jpg)<!-- style="height:80px" -->)]] 
+Allesfresser:  [->[( ![Gebiss Allesfresser](img/Allesfressergebiss_KI.jpg)<!-- style="height:80px" --> )]]
 
-Quelle: creative commons
+Quelle: Erstellt mit LLM
 ---
 
 __Aufgabe 15: Entwicklung Tierarten__
@@ -235,16 +235,16 @@ Ordne die Fährten/Spuren den richtigen Tieren zu.
 <!-- data-show-partial-solution
 data-solution-button="2"
 data-randomize="true"  -->
-<span style="font-weight: normal;">Wildschwein:</span>   [->[( ![](https://images.pexels.com/photos/39519028/pexels-photo-39519028.jpeg)<!-- style="height:80px"--> )]] 
-Hirsch:  [->[( ![](https://images.pexels.com/photos/39519072/pexels-photo-39519072.jpeg)<!-- style="height:80px" -->)]] 
-Wolf:  [->[( ![Alt-Text](https://images.pexels.com/photos/39519038/pexels-photo-39519038.jpeg)<!-- style="height:80px" --> )]] <br>
-Dachs:  [->[( ![](https://images.pexels.com/photos/39519137/pexels-photo-39519137.jpeg)<!-- style="height:80px" --> )]] 
-Luchs:  [->[( ![](https://images.pexels.com/photos/39519411/pexels-photo-39519411.jpeg)<!-- style="height:80px" --> )]] 
-Waschbär:  [->[( ![](https://images.pexels.com/photos/39519942/pexels-photo-39519942.jpeg)<!-- style="height:80px" --> )]] 
-Feldhase:  [->[( ![](https://images.pexels.com/photos/39519738/pexels-photo-39519738.jpeg)<!-- style="height:80px" --> )]]   
-Stockente:  [->[( ![](https://images.pexels.com/photos/39520458/pexels-photo-39520458.jpeg)<!-- style="height:80px" --> )]] 
-Braunbär:  [->[( ![](https://images.pexels.com/photos/39520202/pexels-photo-39520202.jpeg)<!-- style="height:80px" --> )]] 
-Fasan:  [->[( ![](https://images.pexels.com/photos/39520244/pexels-photo-39520244.jpeg)<!-- style="height:80px" --> )]] 
+<span style="font-weight: normal;">Wildschwein:</span>   [->[( ![Wildschwein](img/Wildschweinspuren_KI.jpg)<!-- style="height:80px"--> )]] 
+Hirsch:  [->[( ![Hirsch](img/Hirschspuren_KI.jpg)<!-- style="height:80px" -->)]] 
+Wolf:  [->[( ![Wolf](img/Wolfsspuren_KI.jpg)<!-- style="height:80px" --> )]] <br>
+Dachs:  [->[( ![Dachs](img/Dachsspuren_KI.jpg)<!-- style="height:80px" --> )]] 
+Luchs:  [->[( ![Luchs](img/Luchsspuren_KI.jpg)<!-- style="height:80px" --> )]] 
+Waschbär:  [->[( ![Waschbär](img/Waschbärspuren_KI.jpg)<!-- style="height:80px" --> )]] 
+Feldhase:  [->[( ![Feldhase](img/Feldhasespuren_KI.jpg)<!-- style="height:80px" --> )]]   
+Stockente:  [->[( ![Stockente](img/Stockentespuren_KI.jpg)<!-- style="height:80px" --> )]] 
+Braunbär:  [->[( ![Braunbär](img/Braunbärspuren_KI.jpg)<!-- style="height:80px" --> )]] 
+Fasan:  [->[( ![Fasan](img/Fasanspuren_KI.jpg)<!-- style="height:80px" --> )]] 
 
 Quelle: Erstellt mit einem LLM
 
