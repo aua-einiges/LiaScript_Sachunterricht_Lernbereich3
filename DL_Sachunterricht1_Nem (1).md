@@ -137,6 +137,7 @@ Wiesenchampignon:  [->[( ![](img/Wiesenchampignon_KI.jpg)<!-- style="height:80px
 Krause Glucke:  [->[( ![](img/Krause_Glucke_KI.jpg)<!-- style="height:80px" --> )]]
 
 Quelle: Erstellt mit LLM
+
 ---
 
 
@@ -175,6 +176,7 @@ Fleischfresser:  [->[( ![Gebiss Fleischfresser](img/Fleischfressergebiss_KI.jpg)
 Allesfresser:  [->[( ![Gebiss Allesfresser](img/Allesfressergebiss_KI.jpg)<!-- style="height:80px" --> )]]
 
 Quelle: Erstellt mit LLM
+
 ---
 
 __Aufgabe 15: Entwicklung Tierarten__
@@ -311,6 +313,8 @@ Auerhuhn:  [->[( ![Alt-Text](https://www.waldwissen.net/assets/_processed_/1/7/c
 Wolf:  [->[( ![](https://www.waldwissen.net/assets/_processed_/4/0/csm_Wolf_FVA_Krause-_2__71c4c80268.webp)<!-- style="height:80px" --> )]] 
 Dachs:  [->[( ![](https://www.waldwissen.net/assets/_processed_/c/8/csm_Meles.meles.dung_2fbe741205.webp)<!-- style="height:80px" --> )]] 
 Luchs:  [->[( ![](https://www.waldwissen.net/assets/_processed_/9/d/csm_Luchslosung_ArminHafner-_3__a54f001c96.webp)<!-- style="height:80px" --> )]] 
+
+Quelle: Erstellt mit LLM
 
 ---
 
